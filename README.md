@@ -1,0 +1,2 @@
+# GPTReadPDFPython
+ChatGPT读取PDF智能问答工具 简单的一款通过从PDF文件中提取内容并通过智能问答模型进行交互
